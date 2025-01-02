@@ -1,0 +1,24 @@
+###📂 pset0/playback
+
+This folder contains my solution for **Problem Set 0: Playback** from the CS50 Introduction to Python Programming course.
+
+#### 🎯 Problem Description:
+The goal of this exercise is to write a Python program that takes user input and converts spaces in the input into `...` (three dots). This simulates a playback effect, similar to how a digital assistant like Siri might pause between words.
+
+#### 🛠️ Key Concepts:
+- Taking user input using `input()`
+- String manipulation in Python
+- Using the `replace()` method to substitute characters or strings
+
+#### 📄 Solution Overview:
+The solution involves:
+1. Prompting the user to input a string.
+2. Replacing all spaces (`" "`) in the string with `...` using the `replace()` method.
+3. Printing the modified string back to the user.
+
+---
+#### 🖼️ Related Photo:
+<p align="center">
+  <img src="playback.png" alt="Playback Example" width="400">
+</p>
+
