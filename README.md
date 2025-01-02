@@ -1,7 +1,7 @@
 # CS50: Introduction to Python Programming
 
 <p align="center">
-  <img src="assets/harvard_logo.png" alt="Harvard Logo" width="200">
+  <img src="hlogo.png" alt="Harvard Logo" width="200">
  
 </p>
 
