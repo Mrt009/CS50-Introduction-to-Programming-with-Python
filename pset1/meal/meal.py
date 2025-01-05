@@ -14,8 +14,8 @@ def main():
 
 def convert(time):
     # Convert time in HH:MM format to a float value representing the time in hours
-    min_time, sec_time = time.split(":")
-    final_time = float(min_time) + float(sec_time) / 60
+    hrs_time, min_time = time.split(":")
+    final_time = float(hrs_time) + float(min_time) / 60
     return final_time
 
 if __name__ == "__main__":
