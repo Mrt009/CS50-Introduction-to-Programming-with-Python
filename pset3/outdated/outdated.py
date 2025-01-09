@@ -25,8 +25,7 @@ while True:
             raise ValueError("Comma missing between day and year.")
 
         month, day, year = response.split(" ")
-        if day.isalnum():
-            raise ValueError
+
         day =day.replace(",","")
 
         month = month.title()  # Capitalize month
